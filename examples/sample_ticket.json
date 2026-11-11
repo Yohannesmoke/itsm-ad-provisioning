@@ -1,0 +1,5 @@
+{
+  "request_id": "10423",
+  "subject": "New starters - Finance",
+  "description": "<p>Please create the following accounts:</p><table class=\"ze_tableView\"><tbody><tr><td>FirstName</td><td>LastName</td><td>DisplayName</td><td>Description</td><td>Telephone Number</td><td>Email</td><td>Manager</td><td>Groups</td><td>OU</td></tr><tr><td>Abebe</td><td>Kebede</td><td>Abebe Kebede</td><td>Finance Analyst</td><td>+251900000001</td><td><a href=\"mailto:abebe.kebede@example.com\">abebe.kebede@example.com</a></td><td>jane.doe</td><td>Finance-RW; VPN-Users</td><td><table><tr><td>OU=Finance,OU=Users,DC=corp,DC=example,DC=com</td></tr></table></td></tr><tr><td>Sara</td><td>Tesfaye</td><td></td><td>Accountant</td><td></td><td>sara.tesfaye@example.com</td><td>jane.doe</td><td>Finance-RW</td><td>OU=Finance,OU=Users,DC=corp,DC=example,DC=com</td></tr><tr><td>Missing</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+}
