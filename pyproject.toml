@@ -11,3 +11,4 @@ ignore = ["S603"]  # subprocess call is intentional and takes no shell input
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
